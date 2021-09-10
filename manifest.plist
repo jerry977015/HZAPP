@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/jerry977015/Aisa/raw/master/57x57_1.png</string>
+					<string>https://raw.githubusercontent.com/jerry977015/HZAPP/main/512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/jerry977015/Aisa/raw/master/512x512_1.png</string>
+					<string>https://raw.githubusercontent.com/jerry977015/HZAPP/main/57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
